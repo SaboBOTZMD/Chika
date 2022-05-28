@@ -416,17 +416,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}setexif
   *≻* ${prefix}setmenu
   *≻* ${prefix}setallmenu
-  
-  *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
   `
 }
 
